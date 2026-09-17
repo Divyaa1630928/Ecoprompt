@@ -157,17 +157,4 @@ Ecoprompt/
 
 ---
 
-## 📸 Screenshots
 
-> *(Add screenshots of the Query tab, Impact Dashboard, and Activity Log here)*
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and share.
-
----
-
-*Built with 💚 for the 1M1B × IBM SkillsBuild AI for Sustainability Virtual Internship*
-*Water & energy figures are illustrative approximations based on published third-party disclosures.*
